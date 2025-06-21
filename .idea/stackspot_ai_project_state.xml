@@ -13,8 +13,9 @@
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/MongodbApplication.java" value="0" />
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/config/Instantiation.java" value="21920" />
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/domain/User.java" value="14056" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/dto/UserDTO.java" value="25543" />
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/repository/UserRepository.java" value="7016" />
-                  <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/resources/UserResource.java" value="13275" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/resources/UserResource.java" value="43556" />
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/resources/UserResources.java" value="3904" />
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/services/UserService.java" value="9133" />
                 </map>
