@@ -1,6 +1,7 @@
 package com.bruno_alb.mongodb.services;
 
 import com.bruno_alb.mongodb.domain.User;
+import com.bruno_alb.mongodb.dto.UserDTO;
 import com.bruno_alb.mongodb.repository.UserRepository;
 import com.bruno_alb.mongodb.services.exception.ObjectNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,4 +24,13 @@ public class UserService {
         Optional<User> obj = repo.findById(id);
         return obj.orElseThrow(() -> new ObjectNotFoundException("Objeto não encontrado"));
     }
+
+    public User insert(User obj) {
+        return repo.insert(obj);
+    }
+
+    public User fromDTO(UserDTO objDto) {
+        return new User(objDto.getId(),objDto.getName(),objDto.getEmail());
+    }
+
 }
