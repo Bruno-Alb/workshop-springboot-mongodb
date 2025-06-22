@@ -6,6 +6,7 @@
         <entry key="bruno.alb.fer@gmail.com">
           <value>
             <ProjectStateData>
+              <option name="conversationId" value="01JYBZ859BYK9BA51DMNJVSJFQ" />
               <option name="indexedFiles">
                 <map>
                   <entry key="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2024.1/httpFileSystem/catalog.json" value="4797" />
@@ -17,11 +18,18 @@
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/repository/UserRepository.java" value="7016" />
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/resources/UserResource.java" value="43556" />
                   <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/resources/UserResources.java" value="3904" />
-                  <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/services/UserService.java" value="9133" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/services/ObjectNotFoundException.java" value="43682" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/services/UserService.java" value="51530" />
+                  <entry key="$PROJECT_DIR$/src/main/java/com/bruno_alb/mongodb/services/exception/ObjectNotFoundException.java" value="45416" />
                 </map>
               </option>
               <option name="projectId" value="01JY52CKG02PKQ0WTK8BN0SZ8D" />
             </ProjectStateData>
+          </value>
+        </entry>
+        <entry key="unauthenticated">
+          <value>
+            <ProjectStateData />
           </value>
         </entry>
       </map>
